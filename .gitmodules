@@ -1,0 +1,4 @@
+[submodule "public/git-submodule"]
+	path = public/git-submodule
+	url = https://github.com/thsu3131/git-submodule.git
+	branch = feature-branch-1
